@@ -8,7 +8,7 @@ I’m currently a Director of Engineering at Twitter where I’m responsible for
 
 Before Twitter, I was at Oracle working in the Parallel Execution group. I was fortunate to get an opportunity to make contributions to the database optimizer and parallel execution engine. My work at Oracle has featured in a [VLDB Conference](https://dl.acm.org/doi/10.14778/2536222.2536235) and [patents](https://patents.justia.com/inventor/unmesh-jagtap). I joined Oracle after I completed my Master’s degree in Computer Science from Cornell University with focus on database systems.
 
-I’m expanding my engineering and leadership skills by pursuing an Executive MBA from the Wharton School. Getting a rigorous B-school degree while working full time is a challenging yet one of the most rewarding things I have done in my life.
+I’m expanding my engineering and leadership skills by pursuing an Executive MBA from the Wharton School. Getting a rigorous B-school degree while working full time is a challenging yet one of the most rewarding things I have done in my life. Hoping to use this space to share my thoughts on technology, leadership and product management.
 
 ### Contact me
 
