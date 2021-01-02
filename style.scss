@@ -19,9 +19,9 @@ html {
 
 body {
 	background: $white;
-  font-family: $droid;
+  font-family: $arial;
   line-height: 1.5;
-  font-size: 18px;
+  font-size: 19px;
   color: $darkGray;
 }
 
@@ -33,7 +33,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $droid;
+  font-family: $arial;
   color: $darkerGray;
   font-weight: bold;
 
@@ -47,7 +47,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-family: $droid;
+  font-family: $arial;
   font-size: 30px;
   a {
     color: inherit;
@@ -55,17 +55,17 @@ h1 {
 }
 
 h2 {
-  font-family: $droid;
+  font-family: $arial;
   font-size: 24px;
 }
 
 h3 {
-  font-family: $droid;
+  font-family: $arial;
   font-size: 20px;
 }
 
 h4 {
-  font-family: $droid;
+  font-family: $arial;
   font-size: 18px;
   color: $gray;
 }
