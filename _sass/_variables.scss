@@ -16,7 +16,7 @@ $white: #fff;
 
 @font-face {
   font-family: "Roboto";
-  src: url("../assets/fonts/Roboto-Regular.ttf");
+  src: url("{{ site.baseurl }}/assets/fonts/Roboto-Regular.ttf")
 }
 
 // Font stacks
