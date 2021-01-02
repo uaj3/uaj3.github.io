@@ -19,9 +19,10 @@ html {
 
 body {
 	background: $white;
-  font-family: $arial;
+  font-family: $roboto;
   line-height: 1.5;
-  font-size: 19px;
+  font-size: 18px;
+  font-weight: 300;
   color: $darkGray;
 }
 
@@ -33,7 +34,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $arial;
+  font-family: $roboto;
   color: $darkerGray;
   font-weight: bold;
 
@@ -47,7 +48,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-family: $arial;
+  font-family: $roboto;
   font-size: 30px;
   a {
     color: inherit;
@@ -55,17 +56,17 @@ h1 {
 }
 
 h2 {
-  font-family: $arial;
+  font-family: $roboto;
   font-size: 24px;
 }
 
 h3 {
-  font-family: $arial;
+  font-family: $roboto;
   font-size: 20px;
 }
 
 h4 {
-  font-family: $arial;
+  font-family: $roboto;
   font-size: 18px;
   color: $gray;
 }
@@ -219,7 +220,7 @@ img {
 nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
-  font-family: $helveticaNeue;
+  font-family: $roboto;
   font-size: 18px;
 
   @include mobile {

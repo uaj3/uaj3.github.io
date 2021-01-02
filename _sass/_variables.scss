@@ -14,13 +14,18 @@ $gray: #666;
 $lightGray: #eee;
 $white: #fff;
 
+@font-face {
+  font-family: "Roboto";
+  src: url("../assets/fonts/Roboto-Regular.ttf");
+}
+
 // Font stacks
 $helvetica: Helvetica, Arial, sans-serif;
 $helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
 $georgia: Georgia, serif;
 $droid: "Droid Sans";
-$roboto: "Roboto";
 $arial: "Arial, Helvetica, sans-serif";
+$roboto: "Roboto";
 
 // Mobile breakpoints
 @mixin mobile {
