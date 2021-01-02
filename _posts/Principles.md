@@ -4,7 +4,7 @@ title: Summary Principles
 tags: business
 ---
 
-![Image of Principles] (https://github.com/uaj3/unmeshjagtap.github.io/images/principles.jpeg)
+![Image of Principles] (https://raw.githubusercontent.com/uaj3/unmeshjagtap.github.io/master/images/principles.jpg)
 
 Ray Dalio’s book Principles has influenced my approach to life and leadership. Dalio founded Bridgewater Associates in 1975 and served as its CEO for more than 40 years. He transformed Bridgewater into the biggest hedge fund with $160 billion in assets as of 2019. He appeared in the Times Magazine as one of the 100 Most Influential People and Wired magazine called him the Steve Jobs of investing. Dalio is a recipient of 2 lifetime achievement awards. He has given more than $760 million to philanthropic causes.
 
