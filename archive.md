@@ -1,9 +1,7 @@
 ---
 layout: page
-title: Archive
+title: Posts by Categories
 ---
-
-## Posts by Categories
 
 <div id="archives">
 {% for category in site.categories %}
