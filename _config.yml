@@ -1,20 +1,58 @@
-#
-# This file contains configuration flags to customize your site
-#
-
-# Name of your site (displayed in the header)
 name: Unmesh Jagtap
-
-# Short bio or description (displayed in the header)
-description: Technology | Leadership | Product | Strategy
- 
-# URL of your avatar or profile pic (you could use your GitHub profile pic)
+description: Technology | Leadership | Strategy
 avatar: https://raw.githubusercontent.com/uaj3/unmeshjagtap.github.io/master/images/unmesh.jpeg
-#
-# Flags below are optional
-#
 
-# Includes an icon in the footer for each username you enter
+# Resume settings
+resume_avatar:                  "false"
+resume_name:                    "Unmesh Jagtap"
+resume_title:                   "About"
+
+# used for the contact button in _layouts/resume.html
+resume_contact_email:           "unmesh1.jagtap1@gmail.com"
+
+# the next two items are used for schema itemprops in _layouts/resume.html
+resume_contact_telephone:       "307-4587"
+resume_contact_address:         "San Mateo"
+
+resume_header_contact_info:     ""
+display_header_contact_info:    "false"
+
+resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but keep it brief and concise</p>"
+
+# use "yes" to display the email contact button,
+# "no" to display an "I'm not looking for work" message,
+# or remove the resume_looking_for_work option entirely
+# to leave blank
+resume_looking_for_work:        "yes"
+
+# Decide which sections to use
+# comment out to hide
+resume_section_experience:      true
+resume_section_education:       true
+resume_section_projects:        false
+resume_section_skills:          false
+resume_section_recognition:     false
+resume_section_links:           false
+resume_section_associations:    false
+# resume_section_interests:       true
+
+# Resume social links
+# uncomment the options you wish to display, and add your own URL
+resume_social_links:
+  resume_github_url:            "https://github.com/uaj3"
+  resume_twitter_url:           "http://twitter.com/JagtapUnmesh"
+  resume_linkedin_url:          "https://www.linkedin.com/in/unmesh-jagtap-1b295011"
+  resume_website_url:           "http://unmeshjagtap.com"
+ #resume_medium_url:            "https://medium.com/@jglovier"
+resume_print_social_links:      false
+
+# Design settings
+resume_theme:                   default
+
+# Note: when editing locally, remember to restart
+# your Jekyll server when you edit this file. Changes
+# to _config.yml are only recognized when the server starts
+
 footer-links:
   email: unmesh1.jagtap1@gmail.com
   github: uaj3
@@ -22,26 +60,10 @@ footer-links:
   rss: # just type anything here for a working RSS iconz
   twitter: JagtapUnmesh
 
-# Enter your Disqus shortname (not your username) to enable commenting on posts
-# You can find your shortname on the Settings page of your Disqus account
 disqus:
-
-# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
-
-# Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
-# Used for Sitemap.xml and your RSS feed
 url:
-
-# If you're hosting your site at a Project repository on GitHub pages
-# (http://yourusername.github.io/repository-name)
-# and NOT your User repository (http://yourusername.github.io)
-# then add in the baseurl here, like this: "/repository-name"
 baseurl: ""
-
-#
-# !! You don't need to change any of the configuration flags below !!
-#
 
 permalink: /:title/
 

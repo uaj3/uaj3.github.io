@@ -219,7 +219,7 @@ img {
 
 nav {
   float: right;
-  margin-top: 23px; // @TODO: Vertically middle align
+  margin-top: 23px;
   font-family: $roboto;
   font-size: 18px;
 
@@ -243,10 +243,6 @@ nav {
     }
   }
 }
-
-//
-// .main
-//
 
 .posts > .post {
   padding-bottom: 2em;

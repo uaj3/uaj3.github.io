@@ -1,0 +1,26 @@
+// Variables
+// ---------------------------------------/
+
+$container-width: 980px !default;
+$grid-gutter:     10px !default;
+
+// Colors
+$white:             #fff;
+$black:             #333;
+
+// Styles
+$text_color:        $black;
+
+@font-face {
+    font-family: "Roboto";
+    src: url("/fonts/Roboto-Regular.ttf")
+}
+
+// Font stack
+$body-font: "Roboto";
+
+// The base body size
+$body-font-size: 13px !default;
+
+// Monospace font stack
+$mono-font: Consolas, "Liberation Mono", Menlo, Courier, monospace !default;
