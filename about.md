@@ -12,4 +12,4 @@ Since 2019, I have been expanding my engineering and leadership skills by pursui
 
 ### Contact me
 
-I’m hoping to use this space to share my thoughts on technology and product strategy, engineering and leadership. Please contact me at [unmesh1.jagtap1@gmail.com](mailto:unmesh1.jagtap1@gmail.com)
+I’m hoping to use this space to share my thoughts on technology and product strategy, engineering and leadership. Please reach out to [unmesh1.jagtap1@gmail.com](mailto:unmesh1.jagtap1@gmail.com) to share your perspectives or simply say hi!
