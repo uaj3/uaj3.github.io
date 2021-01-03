@@ -3,7 +3,7 @@ description: Technology | Leadership | Strategy
 avatar: https://raw.githubusercontent.com/uaj3/unmeshjagtap.github.io/master/images/unmesh.jpeg
 
 # Resume settings
-resume_avatar:                  "false"
+resume_avatar:                  "true"
 resume_name:                    "Unmesh Jagtap"
 resume_title:                   "About"
 
@@ -17,7 +17,13 @@ resume_contact_address:         "San Mateo"
 resume_header_contact_info:     ""
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but keep it brief and concise</p>"
+resume_header_intro: "
+<p> 
+Unmesh is a Director of Engineering at Twitter where he is responsible for storage, publish subscribe and real time stream processing systems that store and process mission critical data for Twitter. Before Twitter, he was at Oracle working in the Parallel Execution group where he made contributions to the database optimizer and parallel execution engine. 
+</p>
+<p>
+Unmesh holds a Masters degree in Computer Science from Cornell University and is currently pursuing an Executive MBA from the Wharton School.
+</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
