@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Principles by Ray Dalio
-categories: Books
+categories: Leadership
 ---
 
 ![Principles by Ray Dalio](https://raw.githubusercontent.com/uaj3/unmeshjagtap.github.io/master/images/principles.jpg)
