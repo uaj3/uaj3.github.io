@@ -139,7 +139,7 @@ permalink: /resume/
       <!-- end Skills -->
       {% endif %}
 
-      {% if site.resume_section_license_certs %}
+      {% if site.resume_section_license_certifications %}
       <!-- begin Licenses and Certifications  -->
       <section class="content-section">
 
@@ -147,11 +147,11 @@ permalink: /resume/
           <h2>Licenses and Certifications</h2>
         </header>
 
-        {% for recognition in site.data.recognitions %}
+        {% for license_certifications in site.data.license_certifications %}
         <div class="resume-item">
-          <h3 class="resume-item-details" itemprop="award">{{ recognition.award }} &bull; {{ recognition.year }} </h3>
-          <p class="resume-item-details">{{ recognition.organization }}</p>
-          <p class="resume-item-copy">{{ recognition.summary }}</p>
+          <h3 class="resume-item-details" itemprop="award">{{ license_certifications.award }} &bull; {{ license_certifications.year }} </h3>
+          <p class="resume-item-details">{{ license_certifications.organization }}</p>
+          <p class="resume-item-copy">{{ license_certifications.summary }}</p>
         </div>
         {% endfor %}
 

@@ -37,7 +37,7 @@ resume_section_experience:      true
 resume_section_education:       true
 resume_section_projects:        false
 resume_section_skills:          false
-resume_section_license_certs:   true
+resume_section_license_certifications:   true
 resume_section_links:           false
 resume_section_associations:    false
 resume_section_interests:       false
