@@ -2,6 +2,10 @@
 // ---------------------------------------/
 
 // util
+@font-face {
+  font-family: "Roboto";
+  src: url("/fonts/Roboto-Regular.ttf")
+}
 
 .section-header {
   @include section_border;
@@ -199,7 +203,7 @@
 @media print {
   .no-print { display: none !important }
   .print-only { display: block !important }
-  body { font-size: 12px; line-height: 1rem; }
+  body { font-family: "Roboto"; font-size: 12px; line-height: 1rem; }
   .page-header { padding: 1rem 0 .2rem;
     .header-name {
       @include sans_bold;
