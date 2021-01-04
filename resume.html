@@ -140,7 +140,7 @@ permalink: /resume/
       {% endif %}
 
       {% if site.resume_section_license_certs %}
-      <!-- begin Recognition -->
+      <!-- begin Licenses and Certifications  -->
       <section class="content-section">
 
         <header class="section-header">
@@ -149,14 +149,14 @@ permalink: /resume/
 
         {% for recognition in site.data.recognitions %}
         <div class="resume-item">
-          <h3 class="resume-item-title" itemprop="award">{{ recognition.award }}</h3>
-          <h4 class="resume-item-details">{{ recognition.organization }} &bull; {{ recognition.year }}</h4>
+          <h3 class="resume-item-details" itemprop="award">{{ recognition.award }} &bull; {{ recognition.year }} </h3>
+          <p class="resume-item-details">{{ recognition.organization }}</p>
           <p class="resume-item-copy">{{ recognition.summary }}</p>
         </div>
         {% endfor %}
 
       </section>
-      <!-- end Recognition -->
+      <!-- end Licenses and Certifications -->
       {% endif %}
 
       {% if site.resume_section_associations %}
